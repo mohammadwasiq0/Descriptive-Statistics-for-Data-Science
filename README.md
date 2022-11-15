@@ -1,4 +1,4 @@
-# [Descriptive Statistics for Data Science](https://github.com/mohammadwasiq0/Descriptive-Statistics-for-Data-Science)
+# [Descriptive Statistics for Data Science (DSM- 1001)](https://github.com/mohammadwasiq0/Descriptive-Statistics-for-Data-Science)
 
 I'm very very thankful to 
 
